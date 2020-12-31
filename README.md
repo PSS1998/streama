@@ -52,6 +52,7 @@ If you want to donate to the developer via bitcoin use 17rCUEX6KYQ8ZM4w39ttEUL7S
 
 # Getting Started
 - [Installation and first-time setup](https://docs.streama-project.com/getting-started/installing/)
+- [Complete Installation with TLS](https://github.com/PSS1998/streama/blob/master/docs/Full%20streama%20setup%20on%20a%20clean%20Ubuntu18%20with%20mysql%2C%20system.d%20%26%20letsencrypt)
 
 If you have any issues getting started, feel free to [chat with us on Discord](https://discord.gg/CJEHWX9). We are more than happy to assist and then improve the docs accordingly. 
 
